@@ -9,7 +9,7 @@
 ## Módulo 3
 |Nombre|Apellido|Perfil GitHub|Número WSP|
 |-------|---------|-----|----|
-|Enzo|Scala|https://github.com/enzoscala431-cloud/Modulo_3|2615327651|
+|Enzo|Scala|https://github.com/enzoscala431-cloud/M-dulo_3|2615327651|
 ---
 ## Módulo 4
 |Nombre|Apellido|Perfil GitHub|Número WSP|
